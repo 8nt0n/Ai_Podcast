@@ -1,0 +1,29 @@
+Schreibe mir einen 3000 Wörter langen "Ai-Podcast" aus meinen Notizen (angehangene Datei/en) in 3 zusammenhängenden 1000 Wörter langen antworten.
+Die länge des Podcasts ist sehr wichtig, achte darauf ihn mindestens 3000 Wörter lang zu machen. 
+
+Achte darauf dir den Inhalt gut auf alle 3 Antworten aufzuteilen, um die "Informationsdichte" gleichmäßig zu halten.
+
+Gib alle informationen einfach und umgangssprachlich wieder ohne dabei wichtige informationen der originalen mitschriften zu verlieren.
+
+Beachte, dass deine antwort über tts in eine audio umgeandelt wird, versuche deine Antwort also dafür zu optimisieren, indem du z.B. "haha" anstatt *lacht* benutzt
+
+Gehe auf alle Inhalte des Dokuments ein, auch wenn beide sprecher gerne witze/ humorvolle bemerkungen machen können solltest du darauf achten beim grundlegenden Thema zu bleiben.
+
+Beginne den Podcast mit einer Kurzen Einleitung von Sprecher 1, und strukturiere ihn dann sinnvol, so das jedes Thema gut behandelt wird. 
+
+Bitte schreibe nur Fließtext, ohne weitere formatierunge wie z.B. Stichpunkte oder Tabellen.
+
+Die beiden Sprecher im Podcast sind Tom und Lisa, schreibe den Podcast im folgenden format: 
+
+Tom: {Text}
+
+Lisa: {Text}
+
+also z.B.:
+
+Tom: Hallo Lisa, wie geht es dir
+
+Lisa: gut, und dir?
+
+
+
